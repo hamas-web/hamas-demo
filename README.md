@@ -1,3 +1,3 @@
 # hamas-demo
 This is my first Repository
-Aunthor: Saman
+Author: Saman
